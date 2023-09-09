@@ -1,0 +1,28 @@
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+if game.PlaceId == 14082247421 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/MoneySimZ/main/Script"))()
+elseif game.PlaceId == 13924946576 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/Dingus/main/script"))()
+elseif game.PlaceId == 14086581572 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/Altitorture/main/main"))()
+elseif game.PlaceId == 10449761463 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/StrongestBattlegrounds/main/script"))()
+else 
+    Rayfield:Notify({
+        Title = "Notification",
+        Content = "This game is not supported, Sorry!",
+        Duration = 15.5,
+        Image = 4483362458,
+        Actions = { 
+           Ignore = {
+              Name = "Okay!",
+              Callback = function()
+              print("The user tapped Okay!")
+           end
+        },
+     },
+     })
+end
+
+
