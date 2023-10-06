@@ -8,10 +8,6 @@ elseif game.PlaceId == 14086581572 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/Altitorture/main/main"))()
 elseif game.PlaceId == 10449761463 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/StrongestBattlegrounds/main/script"))()
-elseif game.PlaceId = 14943060074 then
+elseif game.PlaceId == 14943060074 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/ApplesDifficultyChartObby/main/main"))()
-else
-print('not supported')
 end
-
-
