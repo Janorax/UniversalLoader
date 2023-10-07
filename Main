@@ -12,4 +12,6 @@ elseif game.PlaceId == 14943060074 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/ApplesDifficultyChartObby/main/main"))()
 elseif game.PlaceId == 5899995594 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/ClocksDifficultyChartObby/main/main"))()
+elseif game.PlaceId = 6289365295 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/SkysDifficultyChartObby/main/main"))()
 end
