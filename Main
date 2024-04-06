@@ -16,4 +16,6 @@ elseif game.PlaceId == 6289365295 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/SkysDifficultyChartObby/main/main"))()
 elseif game.PlaceId == 2248408710 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/destructionsimulator/main/t"))()
+elseif game.PlaceId == 16480898254 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/EatTheWorld/main/babyidontwannasoundrighteousigot20bitchessuckinlikebisonssheaintevenreallymtypeandshebeenlosinherselftoehnightshiftandiguessandiguessandyouvebeenfightingofrurshotandyouvebeensearchingforyoursportgirligetitbututhinkugotur5amandimdrinkrightnowtellmecanwestill"))()
 end
