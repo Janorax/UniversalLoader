@@ -20,4 +20,6 @@ elseif game.PlaceId == 16480898254 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/EatTheWorld/main/babyidontwannasoundrighteousigot20bitchessuckinlikebisonssheaintevenreallymtypeandshebeenlosinherselftoehnightshiftandiguessandiguessandyouvebeenfightingofrurshotandyouvebeensearchingforyoursportgirligetitbututhinkugotur5amandimdrinkrightnowtellmecanwestill"))()
 elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/Build-A-Boat-For-Treasure/main/autofarm"))()
+elseif game.PlaceId == 16247300990 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/impossibleobby/main/script"))()
 end
