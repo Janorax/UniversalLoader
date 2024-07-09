@@ -24,4 +24,6 @@ elseif game.PlaceId == 16247300990 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/impossibleobby/main/script"))()
 elseif game.PlaceId == 17601705136 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/TycoonRNG/main/script"))()
+elseif game.PlaceId == 14843728937 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/StrongestBattlegrounds/main/script"))()
 end
