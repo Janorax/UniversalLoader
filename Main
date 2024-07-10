@@ -26,4 +26,6 @@ elseif game.PlaceId == 17601705136 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/TycoonRNG/main/script"))()
 elseif game.PlaceId == 14843728937 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/StrongestBattlegrounds/main/script"))()
+elseif game.PlaceId == 16772818120 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/PeriastronStars/main/script"))()
 end
