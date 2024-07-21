@@ -27,4 +27,6 @@ elseif game.PlaceId == 14843728937 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/StrongestBattlegrounds/main/script"))()
 elseif game.PlaceId == 16772818120 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/PeriastronStars/main/script"))()
+elseif game.PlaceId = 8069117419 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/demonsoulsim/main/script"))()
 end
