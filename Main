@@ -31,4 +31,14 @@ elseif game.PlaceId == 8069117419 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/demonsoulsim/main/script"))()
 elseif game.PlaceId == 18110627833 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/MinerEmpire/main/mainer"))()
+elseif game.PlaceId == 6407649031 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/NoscopeArcade/refs/heads/main/script"))()
+elseif game.PlaceId == 537413528 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/babftcandyfarm/refs/heads/main/script"))()
+elseif game.PlaceId == 4490140733 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/MyRestaurant/refs/heads/main/script"))()
+elseif game.PlaceId == 17419137085 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/BuildATycoon/refs/heads/main/mamamama"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/MICHAELZOMBIES/refs/heads/main/script"))()
 end
