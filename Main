@@ -32,7 +32,7 @@ elseif game.PlaceId == 8069117419 then
 elseif game.PlaceId == 18110627833 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/MinerEmpire/main/mainer"))()
 elseif game.PlaceId == 6407649031 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/NoscopeArcade/refs/heads/main/script"))()
+print('SCRIPT BEING UPDATED')
 elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Janorax/babftcandyfarm/refs/heads/main/script"))()
 elseif game.PlaceId == 4490140733 then
